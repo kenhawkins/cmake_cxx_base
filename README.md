@@ -1,8 +1,8 @@
 # cpp_starter_project
 
-[![codecov](https://codecov.io/gh/kenlhawkins/cmake_cxx_base/branch/master/graph/badge.svg)](https://codecov.io/gh/kenlhawkins/cmake_cxx_base)
+[![codecov](https://codecov.io/gh/kenhawkins/cmake_cxx_base/branch/master/graph/badge.svg)](https://codecov.io/gh/kenhawkins/cmake_cxx_base)
 
-[![Build Status](https://travis-ci.com/kenlhawkins/cmake_cxx_base.svg?branch=master)](https://travis-ci.com/kenlhawkins/cmake_cxx_base)
+[![Build Status](https://travis-ci.com/kenhawkins/cmake_cxx_base.svg?branch=master)](https://travis-ci.com/kenhawkins/cmake_cxx_base)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/kibpfhpuxo8frpba?svg=true)](https://ci.appveyor.com/project/kenhawkins/cmake-cxx-base/branch/master)
 
