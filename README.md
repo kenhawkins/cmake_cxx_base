@@ -4,11 +4,9 @@
 
 [![Build Status](https://travis-ci.com/kenlhawkins/cmake_cxx_base.svg?branch=master)](https://travis-ci.com/kenlhawkins/cmake_cxx_base)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ro4lbfoa7n0sy74c/branch/master?svg=true)](https://ci.appveyor.com/project/kenlhawkins/cpp-starter-project/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/kibpfhpuxo8frpba?svg=true)](https://ci.appveyor.com/project/kenhawkins/cmake-cxx-base/branch/master)
 
-![CMake](https://github.com/kenlhawkins/cmake_cxx_base/workflows/CMake/badge.svg)
-
-![CMake](https://github.com/lefticus/cpp_starter_project/workflows/CMake/badge.svg)
+![CMake](https://github.com/kenhawkins/cmake_cxx_base/workflows/CMake/badge.svg)
 
 
 ## Getting Started
