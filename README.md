@@ -1,6 +1,6 @@
 # cpp_starter_project
 
-[![codecov](https://codecov.io/gh/kenhawkins/cmake_cxx_base/branch/master/graph/badge.svg)](https://codecov.io/gh/kenhawkins/cmake_cxx_base)
+[![codecov](https://codecov.io/gh/kenhawkins/cmake_cxx_base/branch/master/graph/badge.svg?token=U6F1ZES9X3)](https://codecov.io/gh/kenhawkins/cmake_cxx_base)
 
 [![Build Status](https://travis-ci.com/kenhawkins/cmake_cxx_base.svg?branch=master)](https://travis-ci.com/kenhawkins/cmake_cxx_base)
 
